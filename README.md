@@ -6,10 +6,10 @@
 Crafted & Maintained with Passion by **[Fahad Ahmad](https://instagram.com/fahad57978)**
 
 <p align="center">
-  <a href="https://fahadapps.github.io/fahadapps/">
+  <a href="https://fahadapps.github.io/">
     <img src="https://img.shields.io/badge/Live_Website-Online-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Website">
   </a>
-  <a href="https://github.com/fahadapps/fahadapps/releases/tag/v1.0.0">
+  <a href="https://github.com/fahadapps/fahadapps.github.io/releases/tag/v1.0.0">
     <img src="https://img.shields.io/badge/Latest_Release-v1.0.0-0284c7?style=for-the-badge&logo=github&logoColor=white" alt="Release v1.0.0">
   </a>
   <a href="https://www.virustotal.com/">
@@ -26,7 +26,7 @@ Crafted & Maintained with Passion by **[Fahad Ahmad](https://instagram.com/fahad
 ---
 
 <p align="center">
-  <b>🌐 Official Portal: <a href="https://fahadapps.github.io/fahadapps/">https://fahadapps.github.io/fahadapps/</a></b>
+  <b>🌐 Official Portal: <a href="https://fahadapps.github.io/">https://fahadapps.github.io/</a></b>
 </p>
 
 </div>
@@ -37,11 +37,11 @@ Crafted & Maintained with Passion by **[Fahad Ahmad](https://instagram.com/fahad
 
 | Application | Version | Size | Highlights | App Showcase | Instant APK Download |
 |---|---|---|---|---|---|
-| **FD YouTube Pro** | `v60` (21.26.364) | **223 MB** | 🚫 100% Ad-Free<br>🎧 Background Audio<br>🪟 Floating PiP Window<br>⚡ 4K 60fps HDR | [📖 Details](https://fahadapps.github.io/fahadapps/youtube.html) | [⬇️ Download APK](https://github.com/fahadapps/fahadapps/releases/download/v1.0.0/FD_YouTube_v60.apk) |
-| **FD InstaPro** | `v15.80` | **179 MB** | 📥 High-Res Media Downloader<br>👻 Stealth Ghost Mode<br>👁️ Anonymous Story Views<br>🚫 Zero Ads | [📖 Details](https://fahadapps.github.io/fahadapps/instapro.html) | [⬇️ Download APK](https://github.com/fahadapps/fahadapps/releases/download/v1.0.0/FD_InstaPro_v15.80.apk) |
-| **Truecaller FD Gold** | `v26.21.6` | **125 MB** | 👑 Lifetime Gold Unlocked<br>🛡️ Predictive Robocall Shield<br>🔍 Incognito Search<br>🚫 Clean Dial Interface | [📖 Details](https://fahadapps.github.io/fahadapps/truecaller.html) | [⬇️ Download APK](https://github.com/fahadapps/fahadapps/releases/download/v1.0.0/Truecaller_FD_Modded.apk) |
-| **Cinema VIP** | `v3.2.0` | **38 MB** | 🎬 4K & 1080p Cinema Servers<br>🌐 30+ Multi-Language Subs<br>📺 Chromecast & Android TV<br>🚫 Commercial Free | [📖 Details](https://fahadapps.github.io/fahadapps/cinema.html) | [⬇️ Download APK](https://github.com/fahadapps/fahadapps/releases/download/v1.0.0/Cinema_VIP_Patched.apk) |
-| **microG Service** | `v8.0.0.1` | **12 MB** | 🔑 Required companion service for Google Account authentication inside FD YouTube Pro | [ℹ️ Setup Info](https://fahadapps.github.io/fahadapps/download-youtube.html) | [⬇️ Download APK](https://github.com/fahadapps/fahadapps/releases/download/v1.0.0/MicroG_8.0.0.1.apk) |
+| **FD YouTube Pro** | `v60` (21.26.364) | **223 MB** | 🚫 100% Ad-Free<br>🎧 Background Audio<br>🪟 Floating PiP Window<br>⚡ 4K 60fps HDR | [📖 Details](https://fahadapps.github.io/youtube.html) | [⬇️ Download APK](https://github.com/fahadapps/fahadapps.github.io/releases/download/v1.0.0/FD_YouTube_v60.apk) |
+| **FD InstaPro** | `v15.80` | **179 MB** | 📥 High-Res Media Downloader<br>👻 Stealth Ghost Mode<br>👁️ Anonymous Story Views<br>🚫 Zero Ads | [📖 Details](https://fahadapps.github.io/instapro.html) | [⬇️ Download APK](https://github.com/fahadapps/fahadapps.github.io/releases/download/v1.0.0/FD_InstaPro_v15.80.apk) |
+| **Truecaller FD Gold** | `v26.21.6` | **125 MB** | 👑 Lifetime Gold Unlocked<br>🛡️ Predictive Robocall Shield<br>🔍 Incognito Search<br>🚫 Clean Dial Interface | [📖 Details](https://fahadapps.github.io/truecaller.html) | [⬇️ Download APK](https://github.com/fahadapps/fahadapps.github.io/releases/download/v1.0.0/Truecaller_FD_Modded.apk) |
+| **Cinema VIP** | `v3.2.0` | **38 MB** | 🎬 4K & 1080p Cinema Servers<br>🌐 30+ Multi-Language Subs<br>📺 Chromecast & Android TV<br>🚫 Commercial Free | [📖 Details](https://fahadapps.github.io/cinema.html) | [⬇️ Download APK](https://github.com/fahadapps/fahadapps.github.io/releases/download/v1.0.0/Cinema_VIP_Patched.apk) |
+| **microG Service** | `v8.0.0.1` | **12 MB** | 🔑 Required companion service for Google Account authentication inside FD YouTube Pro | [ℹ️ Setup Info](https://fahadapps.github.io/download-youtube.html) | [⬇️ Download APK](https://github.com/fahadapps/fahadapps.github.io/releases/download/v1.0.0/MicroG_8.0.0.1.apk) |
 
 ---
 
@@ -77,7 +77,7 @@ graph LR
     style C fill:#16a34a,stroke:#15803d,stroke-width:2px,color:#fff
 ```
 
-1. **Download Package:** Choose your desired application above or visit [FD Studio Web](https://fahadapps.github.io/fahadapps/).
+1. **Download Package:** Choose your desired application above or visit [FD Studio Web](https://fahadapps.github.io/).
 2. **Allow Installation:** If prompted by Android, go to **Settings** and toggle on *"Allow from this source"*.
 3. **Launch & Enjoy:** 
    * *Note for YouTube Pro:* Install **microG** first before launching YouTube Pro to ensure seamless login.
