@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FD Studio - Secure Download Router</title>
+    <script>
+        const params = new URLSearchParams(window.location.search);
+        const app = (params.get('app') || '').toLowerCase();
+        const dep = (params.get('dependency') || '').toLowerCase();
+        
+        if (dep === 'microg') {
+            window.location.href = "https://github.com/fahadapps/fahadapps/releases/download/v1.0.0/MicroG_8.0.0.1.apk";
+        } else if (app === 'youtube') {
+            window.location.href = "download-youtube.html";
+        } else if (app === 'instapro') {
+            window.location.href = "download-instapro.html";
+        } else if (app === 'truecaller') {
+            window.location.href = "download-truecaller.html";
+        } else if (app === 'cinemavip' || app === 'cinema') {
+            window.location.href = "download-cinema.html";
+        } else {
+            window.location.href = "index.html#apps";
+        }
+    </script>
+</head>
+<body style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; display: flex; align-items: center; justify-content: center; height: 100vh; margin: 0; background: #0b1329; color: #fff;">
+    <div style="text-align: center;">
+        <h2>Routing to Secure Download Server...</h2>
+        <p style="color: #94a3b8;">If you are not redirected automatically within a few seconds, <a href="index.html" style="color: #38bdf8;">click here to return to all apps</a>.</p>
+    </div>
+</body>
+</html>
